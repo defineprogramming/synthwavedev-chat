@@ -132,7 +132,7 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gpt-4-0613",
-    available: true,
+    available: false,
     provider: {
       id: "openai",
       providerName: "OpenAI",
@@ -150,7 +150,7 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gpt-4-32k-0314",
-    available: true,
+    available: false,
     provider: {
       id: "openai",
       providerName: "OpenAI",
@@ -159,7 +159,7 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gpt-4-32k-0613",
-    available: true,
+    available: false,
     provider: {
       id: "openai",
       providerName: "OpenAI",
@@ -177,7 +177,7 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gpt-4-vision-preview",
-    available: true,
+    available: false,
     provider: {
       id: "openai",
       providerName: "OpenAI",
@@ -204,7 +204,7 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gpt-3.5-turbo-0613",
-    available: true,
+    available: false,
     provider: {
       id: "openai",
       providerName: "OpenAI",
@@ -231,7 +231,7 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gpt-3.5-turbo-16k-0613",
-    available: true,
+    available: false,
     provider: {
       id: "openai",
       providerName: "OpenAI",
@@ -240,7 +240,7 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gemini-pro",
-    available: true,
+    available: false,
     provider: {
       id: "google",
       providerName: "Google",
